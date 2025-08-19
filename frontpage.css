@@ -1,0 +1,55 @@
+body{
+    background-image: url("pic.jpg");
+    background-size: cover;
+}
+h1{
+    text-align: center;
+    color: brown;
+    text-transform: capitalize;
+    text-decoration: underline;
+
+}  
+footer{
+ margin-top:390px;
+ background-color: rgb(103, 16, 16);
+ font-size: medium;
+ text-align: center;
+ color: aqua;
+}
+
+
+#to{
+
+    font-size:23px;
+    color:rgb(50, 19, 8);
+
+}
+#div{
+/* text-align: center;
+    text-decoration:solid;
+    background-color: rgb(16, 160, 93);
+    margin-top: 300px;
+    size-adjust: calc(50); */
+    margin: auto;
+     width: 30em;
+    height: 20em; 
+    border: 1px solid #333333;
+  box-shadow: 8px 8px 5px #444444;
+  padding: 10px 20px 40px 60px;
+  background-image: linear-gradient(180deg, white, #dddddd 40%, #cccccc);
+  border-radius: 10px;
+  display:block
+}
+#password ,#name,#city ,#email ,#dob{
+    background-color:rgb(186, 214, 235);
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 16px;
+
+
+}
+#reset,#submit{
+    color: #f4ad13;
+    background-color: #444444;
+
+}
+

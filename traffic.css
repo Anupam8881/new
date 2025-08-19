@@ -1,0 +1,45 @@
+
+#one{
+    background-color: black;
+    height: 320px;
+    width: 140px;
+    padding: 0px;
+    border-radius: 20px;
+}
+#red{
+    background-color: red;
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    margin:5px 0px 0px 20px;
+    border: 2px solid red;
+}
+#yellow{
+    background-color:yellow;
+   height: 100px;
+   width: 100px;
+    border-radius: 50%;
+    margin:2px 0px 0px 20px;
+    border: 2px solid yellow;
+}
+#green{
+    background-color:green;
+   height: 100px;
+   width: 100px;
+    border-radius: 50%;
+    margin:2px 0px 0px 20px;
+    border: 2px solid green;
+
+}
+#two{
+    background-color: rgb(65, 15, 15);
+    height: 400px;
+    width: 80px;
+    border:2px solid black;
+    border-radius: 10px;
+    margin-left: 25px;
+}
+#all{
+    background-image: url("tree.jpg");
+    background-size: cover;
+}

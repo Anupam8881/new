@@ -1,0 +1,91 @@
+/* body{
+    text-align: center;
+}
+div{
+    height: 50px;
+    width: 150px;
+    display: inline-block;
+    border: 2px solid black;
+}
+#container{
+    width: 300px;
+    height: 100px;
+    display: flex;
+     flex-direction:row;
+    justify-content: center;
+     flex-wrap: wrap; 
+     align-items:flex-start  
+    align-content: flex-start; 
+    
+
+}
+#box1{
+    background-color: saddlebrown;
+    flex-grow: 1;
+
+    
+}
+
+#box2{
+    background-color: brown;
+    height: 50px;
+    flex-grow: 2;
+}
+
+#box3{
+    background-color: blue;
+
+}
+
+#box4{
+    background-color: aqua;
+    height: 50px;
+}
+
+#box5{
+    background-color: rgb(255, 255, 0);
+    
+
+}
+ */
+
+/* div{
+    background-color: burlywood;
+    display: flex;
+    justify-content: space-evenly;
+
+}
+.nabvar{
+    background-color: pink;
+display: flex;
+
+}  */
+a{
+
+    color: rgb(71, 38, 38);
+    
+}
+
+li{
+list-style-type: none;
+display: inline;
+}
+ul{
+    background-color: rgb(245, 133, 152);
+    display: flex;
+    justify-content: space-evenly;
+}
+#one{
+    background-color: brown;
+    height: 200px;
+    width: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+#two{
+    background-color: blue;
+    height: 60px;
+    width: 60px;
+}

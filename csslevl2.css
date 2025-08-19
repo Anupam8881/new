@@ -1,0 +1,68 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-image:url("food.jpg");
+    background-size:cover;
+    /* background-repeat: no-repeat; */
+}
+
+
+#navbar{
+    background-color: rgb(125, 24, 61);
+    height: 60px;
+
+}
+button{
+    background-color: orange;
+}
+#logo{
+    color: rgb(255, 82, 20);
+    font-size: 20px;
+}
+a{
+margin-right: 200px;
+color: white;
+text-decoration: none;
+}
+ #box1{
+    background-color: rgb(15, 99, 105);
+    height:100px;
+    width:100px;
+   position:sticky;
+  text-align: center;
+    display:inline-block;
+    border:2px solid black ;
+    background-image:url("tree.jpg");
+    background-size:cover;
+}
+#box2{
+    background-color: rgb(205, 170, 15);
+    height: 100px;
+    width: 100px;
+    position: sticky;
+    top: 0px;
+    text-align: center;
+    display:inline-block;
+    border:2px solid black ;
+}
+#box3{
+    background-color: rgba(205, 125, 230, 1);
+    height: 100px;
+    width: 100px;
+  position: fixed;
+  right: 0px;
+    text-align: center;
+    display: inline-block;
+    border:2px solid black ;
+}
+footer{
+background-color: rgb(125, 24, 61);
+color: rgb(245, 241, 241);
+margin-top: 470px;
+text-align: center;
+}
+p{
+    font-size: medium;
+}
+
+
